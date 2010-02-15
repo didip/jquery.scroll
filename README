@@ -1,0 +1,13 @@
+jQuery Scroll
+
+Copyright (c) 2010 Didip Kerabat
+GPL2 and LGPL licensed.
+
+
+Why?
+----
+scrollX, scrollY, scrollMaxX, and scrollMaxY are not consistent cross browser.
+
+Is it truly cross browser?
+--------------------------
+No. It hasn't work yet in Opera.
